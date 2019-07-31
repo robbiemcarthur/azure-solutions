@@ -1,0 +1,12 @@
+C:\Users\dev\Downloads\20532\course\Allfiles\Mod07\Labfiles\Starter\Contoso.Events.Data\bin\Debug\netstandard2.0\Contoso.Events.Data.deps.json
+C:\Users\dev\Downloads\20532\course\Allfiles\Mod07\Labfiles\Starter\Contoso.Events.Data\bin\Debug\netstandard2.0\Contoso.Events.Data.dll
+C:\Users\dev\Downloads\20532\course\Allfiles\Mod07\Labfiles\Starter\Contoso.Events.Data\bin\Debug\netstandard2.0\Contoso.Events.Data.pdb
+C:\Users\dev\Downloads\20532\course\Allfiles\Mod07\Labfiles\Starter\Contoso.Events.Data\bin\Debug\netstandard2.0\Contoso.Events.Models.dll
+C:\Users\dev\Downloads\20532\course\Allfiles\Mod07\Labfiles\Starter\Contoso.Events.Data\bin\Debug\netstandard2.0\Contoso.Events.Models.pdb
+C:\Users\dev\Downloads\20532\course\Allfiles\Mod07\Labfiles\Starter\Contoso.Events.Data\obj\Debug\netstandard2.0\Contoso.Events.Data.csprojAssemblyReference.cache
+C:\Users\dev\Downloads\20532\course\Allfiles\Mod07\Labfiles\Starter\Contoso.Events.Data\obj\Debug\netstandard2.0\Contoso.Events.Data.csproj.CoreCompileInputs.cache
+C:\Users\dev\Downloads\20532\course\Allfiles\Mod07\Labfiles\Starter\Contoso.Events.Data\obj\Debug\netstandard2.0\Contoso.Events.Data.AssemblyInfoInputs.cache
+C:\Users\dev\Downloads\20532\course\Allfiles\Mod07\Labfiles\Starter\Contoso.Events.Data\obj\Debug\netstandard2.0\Contoso.Events.Data.AssemblyInfo.cs
+C:\Users\dev\Downloads\20532\course\Allfiles\Mod07\Labfiles\Starter\Contoso.Events.Data\obj\Debug\netstandard2.0\Contoso.Events.Data.csproj.CopyComplete
+C:\Users\dev\Downloads\20532\course\Allfiles\Mod07\Labfiles\Starter\Contoso.Events.Data\obj\Debug\netstandard2.0\Contoso.Events.Data.dll
+C:\Users\dev\Downloads\20532\course\Allfiles\Mod07\Labfiles\Starter\Contoso.Events.Data\obj\Debug\netstandard2.0\Contoso.Events.Data.pdb

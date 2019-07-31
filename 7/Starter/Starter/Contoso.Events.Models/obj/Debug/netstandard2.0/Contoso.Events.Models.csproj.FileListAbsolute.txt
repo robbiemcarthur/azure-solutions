@@ -1,0 +1,8 @@
+C:\Users\dev\Downloads\20532\course\Allfiles\Mod07\Labfiles\Starter\Contoso.Events.Models\bin\Debug\netstandard2.0\Contoso.Events.Models.deps.json
+C:\Users\dev\Downloads\20532\course\Allfiles\Mod07\Labfiles\Starter\Contoso.Events.Models\bin\Debug\netstandard2.0\Contoso.Events.Models.dll
+C:\Users\dev\Downloads\20532\course\Allfiles\Mod07\Labfiles\Starter\Contoso.Events.Models\bin\Debug\netstandard2.0\Contoso.Events.Models.pdb
+C:\Users\dev\Downloads\20532\course\Allfiles\Mod07\Labfiles\Starter\Contoso.Events.Models\obj\Debug\netstandard2.0\Contoso.Events.Models.csproj.CoreCompileInputs.cache
+C:\Users\dev\Downloads\20532\course\Allfiles\Mod07\Labfiles\Starter\Contoso.Events.Models\obj\Debug\netstandard2.0\Contoso.Events.Models.AssemblyInfoInputs.cache
+C:\Users\dev\Downloads\20532\course\Allfiles\Mod07\Labfiles\Starter\Contoso.Events.Models\obj\Debug\netstandard2.0\Contoso.Events.Models.AssemblyInfo.cs
+C:\Users\dev\Downloads\20532\course\Allfiles\Mod07\Labfiles\Starter\Contoso.Events.Models\obj\Debug\netstandard2.0\Contoso.Events.Models.dll
+C:\Users\dev\Downloads\20532\course\Allfiles\Mod07\Labfiles\Starter\Contoso.Events.Models\obj\Debug\netstandard2.0\Contoso.Events.Models.pdb

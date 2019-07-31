@@ -1,0 +1,11 @@
+c:\vso\Labs\05\Starter\Console\bin\Debug\netcoreapp2.1\SimpleConsole.deps.json
+c:\vso\Labs\05\Starter\Console\bin\Debug\netcoreapp2.1\SimpleConsole.runtimeconfig.json
+c:\vso\Labs\05\Starter\Console\bin\Debug\netcoreapp2.1\SimpleConsole.runtimeconfig.dev.json
+c:\vso\Labs\05\Starter\Console\bin\Debug\netcoreapp2.1\SimpleConsole.dll
+c:\vso\Labs\05\Starter\Console\bin\Debug\netcoreapp2.1\SimpleConsole.pdb
+c:\vso\Labs\05\Starter\Console\obj\Debug\netcoreapp2.1\SimpleConsole.csprojAssemblyReference.cache
+c:\vso\Labs\05\Starter\Console\obj\Debug\netcoreapp2.1\SimpleConsole.csproj.CoreCompileInputs.cache
+c:\vso\Labs\05\Starter\Console\obj\Debug\netcoreapp2.1\SimpleConsole.AssemblyInfoInputs.cache
+c:\vso\Labs\05\Starter\Console\obj\Debug\netcoreapp2.1\SimpleConsole.AssemblyInfo.cs
+c:\vso\Labs\05\Starter\Console\obj\Debug\netcoreapp2.1\SimpleConsole.dll
+c:\vso\Labs\05\Starter\Console\obj\Debug\netcoreapp2.1\SimpleConsole.pdb
